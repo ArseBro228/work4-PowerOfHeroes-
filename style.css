@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+table{
+    font-size: 100px;
+    background-color: antiquewhite;
+    opacity: 90%;
+}
+th{
+    font-size: 95px;
+}
+tr{
+    font-size: 25px;
+}
+.RainBow{
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /* Standard syntax (must be last) */
+    font-family: 'Bebas Neue', cursive;
+}
+.Blue{
+    background-color: mediumblue;
+    color: moccasin;
+}
+.Green{
+    background-color: greenyellow;
+}
+.row{
+    background: rgb(131,58,180);
+    background: linear-gradient(180deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 64%, rgba(252,176,69,1) 100%);
+}
+h1{
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    background-image: url(https://wallpaperaccess.com/full/39033.png);
+}
